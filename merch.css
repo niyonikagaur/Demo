@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.circle {
+    position: absolute;
+    width: 850px;
+    height: 850px;
+    left: 300px;
+    top: -367px;
+    background: #EFEFEF;
+    border-radius: 1000px;
+}
+
+.heading {
+    position: absolute;
+    width: 500px;
+    height: 398px;
+    left: 0.2px;
+    top: 150px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 132px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    transform: rotate(-90deg);
+}
+
+.subheading {
+    position: absolute;
+    width: 90px;
+    height: 53px;
+    left: 140px;
+    top: 340px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 53px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #878787;
+    transform: rotate(-90deg);
+}
+
+.green-box {
+    position: absolute;
+    width: 340px;
+    height: 505px;
+    left: 356px;
+    top: 180px;
+    background: linear-gradient(5.63deg, #43AB92 12.57%, rgba(67, 171, 146, 0.71) 98.87%);
+    border-radius: 25px;
+}
+
+.bt {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 280px;
+    top: 150px;
+    background: url(black-tshirt.png);
+    filter: drop-shadow(1px 9px 100px rgba(0, 0, 0, 0.25));
+}
+
+.s1 {
+    position: absolute;
+    width: 290px;
+    height: 42px;
+    left: 390px;
+    top: 620px;
+    background: url(Sizebar1.png);
+}
+
+.green-text {
+    position: absolute;
+    width: 180px;
+    height: 68px;
+    left: 445px;
+    top: 550px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.red-box {
+    position: absolute;
+    width: 340px;
+    height: 450px;
+    left: 725px;
+    top: 234px;
+    background: linear-gradient(11.77deg, #B96464 22.53%, rgba(185, 100, 100, 0.67) 97.73%);
+    border-radius: 25px;
+}
+
+.wt {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 760px;
+    top: 300px;
+    background: url(white-tshirt.png);
+    filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.25));
+}
+
+.s2 {
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: 760px;
+    top: 620px;
+    background: url(Sizebar2.png);
+}
+
+.red-text {
+    position: absolute;
+    width: 161px;
+    height: 66px;
+    left: 820px;
+    top: 570px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.h {
+    position: absolute;
+    width: 673.32px;
+    height: 398px;
+    left: 600px;
+    top: 50px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 85px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.right-arrow {
+    position: absolute;
+    left: 16.93%;
+    right: 78.44%;
+    top: 67.21%;
+    bottom: 25.66%;
+    transform: rotate(-180deg);
+}
+
+.cart {
+    position: absolute;
+    left: 92.06%;
+    right: 4.3%;
+    top: 4.68%;
+    bottom: 89.71%;
+}
+
+.logo1 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1380px;
+    top: 250px;
+    background: url(tshirt-logo.png);
+}
+
+.logo2 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1380px;
+    top: 350px;
+    background: url(jacketlogo.png);
+    opacity: 0.3;
+}
+
+.logo3 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1380px;
+    top: 450px;
+    background: url(accessorieslogo.png);
+    opacity: 0.3;
+}

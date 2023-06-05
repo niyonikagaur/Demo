@@ -1,0 +1,36 @@
+    @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+    * {
+        padding: 0;
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .header {
+        height: 100vh;
+        width: 100%;
+        background-image: url("Homepage.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 40px;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin: auto;
+    }
+    
+    nav ul li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+    }
+    
+    nav ul li a {
+        color: white;
+        text-decoration: none;
+        font-weight: lighter;
+    }

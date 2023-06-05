@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading {
+    position: absolute;
+    left: 2.12%;
+    right: 53.37%;
+    top: 10.12%;
+    bottom: 74.85%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 159px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.Credit {
+    position: absolute;
+    left: 2.12%;
+    right: 52.51%;
+    top: 32.59%;
+    bottom: 61.71%;
+    background: #EFEFEF;
+    border-radius: 25px;
+}
+
+.Credit-text {
+    position: absolute;
+    left: 5.82%;
+    right: 69.78%;
+    top: 32.8%;
+    bottom: 61.2%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 33px;
+    letter-spacing: 0.01em;
+    color: #B6B6B6;
+}
+
+.Credit2 {
+    position: absolute;
+    left: 2.12%;
+    right: 52.51%;
+    top: 42.46%;
+    bottom: 51.83%;
+    background: #EFEFEF;
+    border-radius: 25px;
+}
+
+.Credit-text2 {
+    position: absolute;
+    left: 5.89%;
+    right: 54.1%;
+    top: 43.50%;
+    bottom: 51.22%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 33px;
+    letter-spacing: 0.01em;
+    color: #B6B6B6;
+}
+
+.rectangle {
+    position: absolute;
+    left: 64.29%;
+    right: 3.24%;
+    top: 24.54%;
+    bottom: 9.06%;
+    background: #EFEFEF;
+    border-radius: 20px;
+}
+
+.card {
+    position: absolute;
+    left: 66.53%;
+    right: 26.85%;
+    top: 27.9%;
+    bottom: 61.91%;
+    background: url(a1.jpg);
+    border-radius: 10px;
+}
+
+.text1 {
+    position: absolute;
+    left: 74.34%;
+    right: 13.29%;
+    top: 27.9%;
+    bottom: 62.73%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    left: 82.41%;
+    right: 5.09%;
+    top: 28.31%;
+    bottom: 63.85%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: right;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.line {
+    position: absolute;
+    left: 66.53%;
+    right: 5.09%;
+    top: 40.53%;
+    bottom: 59.47%;
+    border: 1px solid #B6B6B6;
+}
+
+.text3 {
+    position: absolute;
+    left: 84.39%;
+    right: 5.89%;
+    top: 43.79%;
+    bottom: 53.56%;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.rec2 {
+    position: absolute;
+    width: 164px;
+    height: 52px;
+    left: 1250px;
+    top: 550px;
+    background: #000000;
+    border-radius: 20px;
+}
+
+.text4 {
+    position: absolute;
+    width: 106px;
+    height: 38px;
+    left: 1300px;
+    top: 560px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.saly {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 480px;
+    top: 250px;
+}
+
+.mastercard {
+    position: absolute;
+    left: 4.89%;
+    right: 89.68%;
+    top: 62.32%;
+    bottom: 32.55%;
+}
+
+.visa {
+    position: absolute;
+    left: 14.75%;
+    right: 79.1%;
+    top: 63.75%;
+    bottom: 33.23%;
+}
+
+.nb {
+    position: absolute;
+    left: 25.33%;
+    right: 68.06%;
+    top: 62.32%;
+    bottom: 31.4%;
+}
+
+.amazon {
+    position: absolute;
+    width: 88px;
+    height: 61.67px;
+    left: 70px;
+    top: 550px;
+}
+
+.upi {
+    position: absolute;
+    width: 55px;
+    height: 69.87px;
+    left: 242px;
+    top: 550px;
+}
